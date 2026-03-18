@@ -3,3 +3,5 @@ output/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+walkthrough.md
+data/1.pdf
