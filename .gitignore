@@ -1,9 +1,9 @@
 .env
-output/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 walkthrough.md
 data/1.pdf
-disaster_relief_ai_dashboard_1778134270180.png
 linkedin_post.md
+output/classified_messages.xlsx
+output/flood_report.xlsx
