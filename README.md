@@ -74,5 +74,5 @@ Converts unstructured news text into validated JSON objects using Pydantic. Gene
 *Created as a demonstration of Advanced Prompt Engineering for Humanitarian Aid.*
 
 ## 🏆 Acknowledgments
-Special thanks to [@zuucrew](https://github.com) for providing the project scenario and data that made this simulation possible. This project was developed as part of their [Zuucrew's AEE Bootcamp](https://www.zuucrew.ai/) to explore the frontiers of AI in disaster management.
+Special thanks to [@zuucrew](https://github.com/machinelearningzuu) for providing the project scenario and data that made this simulation possible. This project was developed as part of their [Zuucrew's AEE Bootcamp](https://www.zuucrew.ai/) to explore the frontiers of AI in disaster management.
 
