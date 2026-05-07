@@ -2,7 +2,7 @@
 
 Operation Ditwah is a comprehensive **Prompt Engineering** framework designed for mission-critical disaster relief operations in Sri Lanka. It demonstrates how to leverage Large Language Models (LLMs) like Gemini to automate crisis triage, ensure logical reasoning in high-stakes environments, and manage operational costs through structured data and token economics.
 
-![Disaster Relief AI Dashboard](file:///C:/Users/Taruni/.gemini/antigravity/brain/9e1ac2bf-7208-4291-a5dd-c5684f2fa29a/disaster_relief_ai_dashboard_1778134270180.png)
+![Disaster Relief AI Dashboard](output/disaster_relief_ai_dashboard_1778134270180.png)
 
 ## 🚀 Project Overview
 
@@ -74,4 +74,4 @@ Converts unstructured news text into validated JSON objects using Pydantic. Gene
 *Created as a demonstration of Advanced Prompt Engineering for Humanitarian Aid.*
 
 ## 🏆 Acknowledgments
-Special thanks to **@[Organization Name]** for providing the project scenario and data that made this simulation possible. This project was developed as part of their [Program Name/Challenge Name] to explore the frontiers of AI in disaster management.
+Special thanks to **@[Organization Name]** for providing the project scenario and data that made this simulation possible. This project was developed as part of their [Program Name/Challenge Name] to explore the frontiers of AI in disaster management.
